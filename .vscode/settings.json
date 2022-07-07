@@ -1,0 +1,20 @@
+{
+  "files.associations": {
+    "tad_dir_entry.h": "c",
+    "boot_sector.h": "c",
+    "listdirentry.h": "c",
+    "stackdirectory.h": "c",
+    "longlistdirentry.h": "c",
+    "ls.h": "c",
+    "pwd.h": "c",
+    "cd.h": "c",
+    "mv.h": "c",
+    "stdio.h": "c",
+    "*.tcc": "c",
+    "cmath": "c",
+    "functional": "c",
+    "random": "c",
+    "type_traits": "c"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
