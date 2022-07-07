@@ -3,9 +3,9 @@
 Implementação do sistema de arquivos FAT32 e de operações que manipulam os dados dentro do mesmo. Para tanto, foi utilizada a Linguagem de Programação C em conjunto com o compilador GCC na versão 9.4.0. O Sistema Operacional utilizado no processo foi o Linux Ubuntu 20.04.4 LTS.
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/repo-size/jhonatancunha/fat32_file_system" alt="">
-<img src="https://img.shields.io/github/license/jhonatancunha/fat32_file_system" alt="">
-<img src="https://img.shields.io/github/last-commit/jhonatancunha/fat32_file_system" alt="">
+<img src="https://img.shields.io/tokei/lines/github/jhonatancunha/fat32_file_system?style=for-the-badge" alt="">
+<img src="https://img.shields.io/github/license/jhonatancunha/fat32_file_system?color=blue&style=for-the-badge" alt="">
+<img src="https://img.shields.io/github/last-commit/jhonatancunha/fat32_file_system?color=blue&style=for-the-badge" alt="">
 </p>
 <br>
 
