@@ -1,4 +1,4 @@
-<h1 align="center">:rotating_light: Sistema de Arquivos FAT32  </h1>
+<h1 align="center">:card_file_box: Sistema de Arquivos FAT32  </h1>
 <p align="center">
 Implementação do sistema de arquivos FAT32 e de operações que manipulam os dados dentro do mesmo. Para tanto, foi utilizada a Linguagem de Programação C em conjunto com o compilador GCC na versão 9.4.0. O Sistema Operacional utilizado no processo foi o Linux Ubuntu 20.04.4 LTS.
 </p>
